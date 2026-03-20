@@ -1,0 +1,12 @@
+{
+  "name": "kpc-ia",
+  "version": "1.0.0",
+  "description": "KPC IA — Chatbot propulsé par Claude (Anthropic)",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
